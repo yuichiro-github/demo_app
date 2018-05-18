@@ -1,4 +1,4 @@
-# Ruby on Rails チュートリアル：サンプルアプリケーショn
+# Ruby on Rails チュートリアル：サンプルアプリケーション
 
 This is the first application for the
 
